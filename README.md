@@ -10,6 +10,7 @@ The following options should be **disabled**/**unchecked**:
 - `Add a README file`
 - `Add .gitignore`
 - `Choose a license`
+- `you're done!`
 
 <details><summary>Why make the repository public?</summary>
 

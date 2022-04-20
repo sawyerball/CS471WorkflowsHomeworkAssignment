@@ -50,6 +50,7 @@ origin  https://github.com/BoiseState/CS471-Assignments-Workflows.git (push)
 ```
 
 ### Step 3b
+Do the following for credit
 Remove the `origin` remote pointing to the cloned repository:
 ```bash
 $ git remote remove origin

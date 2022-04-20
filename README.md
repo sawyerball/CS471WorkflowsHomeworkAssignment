@@ -10,6 +10,7 @@ The following options should be **disabled**/**unchecked**:
 - `Add a README file`
 - `Add .gitignore`
 - `Choose a license`
+- `you're done!`
 
 <details><summary>Why make the repository public?</summary>
 
@@ -22,6 +23,7 @@ Creating a public repository will allow you to [visualize your repository histor
 However, this [repository insights](https://github.com/pricing#compare-features) feature:
 - is not available for personal **private** repositories,
 - but it is available for personal **public** repositories (or for personal **private** repositories with a **Team** subscription, which you may not have).
+- will belong to you and show up on your account.
 
 ---
 
@@ -50,6 +52,7 @@ origin  https://github.com/BoiseState/CS471-Assignments-Workflows.git (push)
 ```
 
 ### Step 3b
+Do the following for credit
 Remove the `origin` remote pointing to the cloned repository:
 ```bash
 $ git remote remove origin
